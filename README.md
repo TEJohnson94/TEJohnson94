@@ -2,11 +2,10 @@
 
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
 
+- [Vulnerability Management Lab]
+
 - [Lab Setup & SIEM Deployment (Microsoft Sentinel) Self-initiated Personal Security Operations Center (SOC)](https://github.com/TEJohnson94/SEIM-SOC-Lab-Setup/tree/main)
 
-
-- <b>Python</b>
-  
 
 <h2>📝 Certifications</h2>
 Google CyberSecurity Certificate
