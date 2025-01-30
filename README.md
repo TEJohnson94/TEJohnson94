@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
 
-- <b>Lab Setup & SIEM Deployment (Microsoft Sentinel) Self-initiated Personal Security Operations Center (SOC)</b>
+- [Lab Setup & SIEM Deployment (Microsoft Sentinel) Self-initiated Personal Security Operations Center (SOC)](https://github.com/TEJohnson94/SEIM-SOC-Lab-Setup/tree/main)
 
 
 - <b>Python</b>
