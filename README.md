@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
 
-- [Vulnerability Management Lab]
+- [Vulnerability Management with Tenable](https://github.com/TEJohnson94/Vulnerability-Management-Lab/blob/main/README.md)
 
 - [Lab Setup & SIEM Deployment (Microsoft Sentinel) Self-initiated Personal Security Operations Center (SOC)](https://github.com/TEJohnson94/SEIM-SOC-Lab-Setup/tree/main)
 
